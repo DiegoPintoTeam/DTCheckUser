@@ -1,9 +1,4 @@
-# CheckUser
-
-*CheckUser* E um verificador de usuários.
-
-# PyPi Official
-- ## [CheckUser](https://pypi.org/project/CheckerUser/)
+### Instalar Pip3
 
 ```
 pip3 install CheckerUser
@@ -14,7 +9,7 @@ bash <(curl -sL https://raw.githubusercontent.com/DiegoPintoTeam/DTCheckUser/ref
 ```
  *Opcao 2*
 
-# Ingresar 
+### Ingresar 
 ```
 checkuser --help
 ```
