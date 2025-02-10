@@ -1,5 +1,5 @@
 url='https://github.com/DiegoPintoTeam/DTCheckUser.git'
-checkuser='https://github.com/DTunnel0/DTCheckUser/raw/master/executable/checkuser'
+checkuser='https://github.com/DTunnel0/DTCheckUser/raw/main/executable/checkuser'
 depends=('git' 'python3' 'pip3')
 
 cd ~
@@ -122,7 +122,7 @@ function console_menu() {
     echo '[01] - INSTALAR CHECKUSER'
     echo '[02] - REINSTALAR CHECKUSER'
     echo '[03] - DESINSTALAR CHECKUSER'
-    echo '[00] - SAIR'
+    echo '[00] - SALIR'
     echo
     read -p 'Escolha uma opção: ' option
 
