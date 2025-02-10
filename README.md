@@ -33,7 +33,7 @@ python3 -m pip install --upgrade git+https://github.com/DTunnel0/DTCheckUser.git
 
 ### Ou
 ```
-bash <(curl -sL https://raw.githubusercontent.com/DTunnel0/DTCheckUser/master/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/DiegoPintoTeam/DTCheckUser/refs/heads/main/install.sh)
 ```
  *Opcao 2*
 
