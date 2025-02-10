@@ -124,7 +124,7 @@ function console_menu() {
     echo '[03] - DESINSTALAR CHECKUSER'
     echo '[00] - SALIR'
     echo
-    read -p 'Escolha uma opção: ' option
+    read -p 'Elige una opción: ' option
 
     case $option in
     01 | 1)
@@ -140,11 +140,11 @@ function console_menu() {
         console_menu
         ;;
     00 | 0)
-        echo '[*] Saindo...'
+        echo '[*] Saliendo...'
         exit 0
         ;;
     *)
-        echo '[*] Opção inválida!'
+        echo '[*] Opción no válida!'
         read -p 'Pressione ENTER para continuar...'
         console_menu
         ;;
