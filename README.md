@@ -5,5 +5,7 @@ bash <(curl -sL https://raw.githubusercontent.com/DiegoPintoTeam/DTCheckUser/ref
 ```
 ### Ingresar 
 ```
+
+```
 checkuser --help
 ```
