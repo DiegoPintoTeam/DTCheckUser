@@ -1,7 +1,3 @@
-### Instalar Pip3
-
-```
-pip3 install CheckerUser
 ```
 ### Instalar
 ```
