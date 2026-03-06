@@ -6,9 +6,9 @@ try:
 except Exception:
     pass
 
-__version__ = '1.5.2'
-__author__ = 'Glemison C. Dutra'
-__email__ = 'glemyson20@gmail.com'
+__version__ = '1.0'
+__author__ = 'Diego Pinto TM'
+__email__ = 'correo@diegopintoteam.com'
 
 __description__ = (
     'DTChecker - CHECKUSER | '
