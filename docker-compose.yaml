@@ -4,6 +4,6 @@ services:
   app:
     build: .
     ports:
-      - '5000:5000'
+      - '2052:2052'
     volumes:
       - .:/checkuser

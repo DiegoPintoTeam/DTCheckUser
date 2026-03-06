@@ -54,7 +54,7 @@ function install_checkuser() {
 
 function start_checkuser() {
     echo '[*] Iniciando DTCheckUser...'
-    read -p 'Porta: ' -e -i 5000 port
+    read -p 'Puerto: ' -e -i 2052 port
     checkuser_service $port $(command -v checkuser)
 
     systemctl daemon-reload
