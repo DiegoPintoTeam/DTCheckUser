@@ -113,7 +113,7 @@ function console_menu() {
 
     echo -n 'CHECKUSER MENU v1 - '
     if is_installed; then
-        echo -e '\e[32m[INSTALADO]\e[0m - Versao:' $(get_version)
+        echo -e '\e[32m[INSTALADO]\e[0m - Version:' $(get_version)
     else
         echo -e '\e[31m[DESINSTALADO]\e[0m'
     fi
